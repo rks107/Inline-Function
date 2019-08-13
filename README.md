@@ -1,6 +1,8 @@
 # Inline-Function
 use of inline function  || Oops concept
+:
 According to Oops private members of class can only be used by member function of that class. Even object of that class don't have rights to access private data.
+
 Against this concept of Oops C++ provide concept of friend function that can able to access private data member of class without becoming a member. Since it is a special function so it has some special properties:
 1. Declaration of friend function should be within a class by using friend funnction keyword.
 2. Definition of friend function is outside of class, just like a general function.
