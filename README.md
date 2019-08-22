@@ -1,4 +1,4 @@
-# Inline-Function
+# Friend-Function
 use of inline function  || Oops concept
 :
 According to Oops private members of class can only be used by member function of that class. Even object of that class don't have rights to access private data.
